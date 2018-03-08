@@ -1,0 +1,34 @@
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:55	Setting SSL certificate trust
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:59	Validating the license file
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:70	License file is valid
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:79	Scheduling print jobs
+2018-03-06 21:28:45	com.cubewise.l	WARN 	ScheduleManager:144	SMTP settings must be set in the WEB-INF\config\settings.json to run scheduled jobs
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:81	Scheduling of print jobs complete
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:88	Canvas API: 2.0.20180301
+2018-03-06 21:28:45	com.cubewise.servlets.ApplicationContext	INFO 	InitContextListener:89	Application startup is complete
+2018-03-06 21:28:46	ro.isdc.wro.http.WroFilter	INFO 	WroFilter:125	wro4j version: 1.7.8-SNAPSHOT
+2018-03-06 21:28:46	ro.isdc.wro.http.WroFilter	INFO 	WroFilter:126	wro4j configuration: ro.isdc.wro.config.jmx.WroConfiguration@3d336253[
+  cacheUpdatePeriod=-1
+  modelUpdatePeriod=15
+  resourceWatcherUpdatePeriod=15
+  resourceWatcherAsync=false
+  gzipEnabled=true
+  debug=true
+  ignoreMissingResources=true
+  cacheGzippedContent=false
+  jmxEnabled=false
+  wroManagerClassName=<null>
+  encoding=UTF-8
+  mbeanName=<null>
+  header=<null>
+  connectionTimeout=2000
+  parallelPreprocessing=false
+  ignoreEmptyGroup=true
+  ignoreFailingProcessor=false
+  minimizeEnabled=false
+]
+2018-03-08 08:36:20	com.cubewise.n	WARN 	ArrayUtils:25	List passed is empty! 
+2018-03-08 08:37:19	com.cubewise.n	WARN 	ArrayUtils:25	List passed is empty! 
+2018-03-08 08:37:22	com.cubewise.n	WARN 	ArrayUtils:25	List passed is empty! 
+2018-03-08 08:37:24	com.cubewise.n	WARN 	ArrayUtils:25	List passed is empty! 
+2018-03-08 08:37:27	com.cubewise.n	WARN 	ArrayUtils:25	List passed is empty! 
